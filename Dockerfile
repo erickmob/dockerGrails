@@ -25,3 +25,4 @@ WORKDIR /app
 
 # Set Default Behavior
 ENTRYPOINT ["grails"]
+
